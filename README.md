@@ -2,7 +2,8 @@
 ` Hi, I’m Srishti !!  😊 `  
 
 
- `I am 20 and interested in frontend technologies and languages like Python and Java.`
+ `I am 20 and interested in frontend technologies  .`     
+ `Exploring languages like Python 🐍 and Java ♨️ `
 
 
 <!---
