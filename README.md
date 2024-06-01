@@ -3,7 +3,7 @@
 
 
  `I am 20 and interested in frontend technologies  .`     
- `Exploring languages like Python 🐍 and Java ♨️ `
+ `Exploring languages like Python 🐍 and Java ♨️  .`
 
 
 <!---
