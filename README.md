@@ -26,18 +26,13 @@ Currently diving deeper into:
 - Data generation for content performance analysis
 - Strategies for improving user engagement metrics
 
-### 📫 How to Reach Me
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-
 Feel free to explore my projects and reach out if you want to collaborate!
 
 ---
 
 ### 🔥 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[sris-14]&show_icons=true&theme=radical)
 
 ---
 
-You can customize this further to suit your style!
+Made with &hearts;
