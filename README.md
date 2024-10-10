@@ -16,7 +16,7 @@
 
 <h2>🚀 About Me</h2>
 <p>
-I'm in my final year of college majoring in [Your Major], with a strong passion for data analytics, machine learning, and web development.
+I'm in my final year of college majoring in Computer Science, with a strong passion for data analytics, machine learning, and web development.
 </p>
 
 <h2>💼 What I Do</h2>
