@@ -49,13 +49,5 @@ Currently diving deeper into:
 
 
 
-- **Data Analysis**: 
-- **Machine Learning**: 
-- **Web Development**: 
-
-
-
-
-
 
 
