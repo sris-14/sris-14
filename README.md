@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Srishti!
 
 ### 🚀 About Me
-I'm currently in my final year of college, majoring in [Your Major], with a strong passion for data analytics, machine learning, and web development. Over the years, I've built a solid foundation in Python, SQL, DBMS, and computer networks, and have recently been focusing on applying data analysis in real-world projects.
+I'm currently in my final year of college, majoring in Computer Science, with a strong passion for data analytics, machine learning, and web development. Over the years, I've built a solid foundation in Python, SQL, DBMS, and computer networks, and have recently been focusing on applying data analysis in real-world projects.
 
 ### 💼 What I Do
 - **Data Analysis**: With experience in Python, SQL, and Power BI, I analyze and visualize complex datasets to derive actionable insights.
