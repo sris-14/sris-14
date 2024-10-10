@@ -16,11 +16,11 @@ I'm in my final year of college majoring in [Your Major], with a strong passion 
 
 <h2>💼 What I Do</h2>
 <ul>
-  <li>🔍 <strong>Data Analysis</strong>: <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> | <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy"/>    
-    * With experience in Python, SQL, and Power BI, I analyze and visualize complex datasets to derive actionable insights.  
+  <li>🔍 <strong>Data Analysis</strong>: <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> | <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy"/>    |
+     With experience in Python, SQL, and Power BI, I analyze and visualize complex datasets to derive actionable insights.  
   </li>
   <li>🤖 <strong><span style="color:#3776AB;">Machine Learning</span></strong>: I'm constantly learning and exploring machine learning algorithms, and I enjoy building models and optimizing them for various projects.</li>
-  <li>📊 <strong>Data Visualization</strong>: <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>  * I have a growing interest in creating interactive visualizations and dashboards using tools like Plotly and Dash.</li>
+  <li>📊 <strong>Data Visualization</strong>: <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/> | I have a growing interest in creating interactive visualizations and dashboards using tools like Plotly and Dash.</li>
 </ul>     
 
 ### 💡 Recent Projects
@@ -49,20 +49,6 @@ Currently diving deeper into:
 
 
 
-
-
-
-
-To write a compelling GitHub profile README, it's essential to highlight your skills, experiences, and interests in a clear and engaging way. Here's a template based on your background and goals:
-
----
-
-# 👋 Hi, I'm [Your Name]!
-
-### 🚀 About Me
-I'm currently in my final year of college, majoring in [Your Major], with a strong passion for data analytics, machine learning, and web development. Over the years, I've built a solid foundation in Python, SQL, DBMS, and computer networks, and have recently been focusing on applying data analysis in real-world projects.
-
-### 💼 What I Do
 - **Data Analysis**: 
 - **Machine Learning**: 
 - **Web Development**: 
