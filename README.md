@@ -1,8 +1,7 @@
-To write a compelling GitHub profile README, it's essential to highlight your skills, experiences, and interests in a clear and engaging way. Here's a template based on your background and goals:
 
 ---
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Srishti]!
 
 ### 🚀 About Me
 I'm currently in my final year of college, majoring in [Your Major], with a strong passion for data analytics, machine learning, and web development. Over the years, I've built a solid foundation in Python, SQL, DBMS, and computer networks, and have recently been focusing on applying data analysis in real-world projects.
