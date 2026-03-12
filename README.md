@@ -9,7 +9,7 @@
 
 ## 🔨 Tools & Technologies
 - Programming: **Python**, **SQL**, **Java**, **ML**
-- Libraries & Frameworks: **Pandas**, **NumPy**, **Scikit-Learn**, **Streamlit**, **FastAPI**
+- Libraries & Frameworks: **Pandas**, **NumPy**, **Streamlit**, **FastAPI**
 - Visualization: **Matplotlib**, **Seaborn**, **Plotly**
 - Other Skills: **DBMS**, **OOP**, **Computer Networks**
 
