@@ -1,7 +1,7 @@
 # Hi, I'm Srishti Shukla!
 
 ## 🚀 About Me
-- 🌱 Learner | exploring **Machine Learning**, **Data Analysis**, and **Python Development**.
+- 🌱 Learner | exploring **AI/ML**, **Data Analysis**, and **Python Development**.
 - 🎯 My goal is to create impactful and user-friendly tech solutions.
 
 ## 🔨 Tools & Technologies
