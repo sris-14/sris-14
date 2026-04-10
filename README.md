@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🌱 Learner | exploring **AI/ML**, **Data Analysis**, and **Python Development**.
-- 🎯 My goal is to create impactful and user-friendly tech solutions.
+- 🎯 My goal is to create impactful, user-friendly tech solutions, be an impactful programmer.
 
 ## 🔨 Tools & Technologies
 - Programming: *Python*, *SQL*, *Java*, *ML*, *Flask*
