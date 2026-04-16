@@ -6,9 +6,9 @@
 
 ## 🔨 Tools & Technologies
 - Programming: *Python*, *SQL*, *Java*, *ML*, *Flask*
-- Libraries & Frameworks: *Pandas*, *NumPy*, *Streamlit*, *FastAPI*
+- Libraries & Frameworks: *Pandas*, *NumPy*, *Streamlit*
 - Visualization: *Matplotlib*, *Seaborn*, *Plotly*
-- Other Skills: *DBMS*, *OOPS*, *Computer Networks*
+- Other Skills: *DBMS*, *OOPS*, *CN*
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/srishtii/) 
