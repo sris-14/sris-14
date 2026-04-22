@@ -5,7 +5,7 @@
 - 🎯 My goal is to create impactful, user-friendly tech solutions, be an impactful programmer.
 
 ## 🔨 Tools & Technologies
-- Programming: *Python*, *SQL*, *Java*, *ML*, *Flask*
+- Programming: *Python*, *SQL*, *Java*, *ML*, *Flask*, *JavaScript*
 - Libraries & Frameworks: *Pandas*, *NumPy*, *Streamlit*
 - Visualization: *Matplotlib*, *Seaborn*, *Plotly*
 - Other Skills: *DBMS*, *OOPS*, *CN*
