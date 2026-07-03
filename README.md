@@ -1,17 +1,17 @@
 # Hi, I'm Srishti Shukla!
 
 ## 🚀 About Me
-- 🌱 Learner | exploring **AI/ML**, **Data Analysis**, and **Python Development**.
+- 🌱 Learner | **AI Automation Intern**.
 - 🎯 My goal is to create impactful, user-friendly tech solutions, be an impactful programmer.
 
 ## 🔨 Tools & Technologies
 - Programming: *Python*, *SQL*, *Java*, *ML*, *Flask*, *JavaScript*
 - Libraries & Frameworks: *Pandas*, *NumPy*, *Streamlit*
 - Visualization: *Matplotlib*, *Seaborn*, *Plotly*
-- Other Skills: *DBMS*, *OOPS*, *CN*
+- *AI*, *Automation*, *N8N*
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/srishtii/) 
-- [Email](sri391124@gmail.com)
+- [Email](srishti41sh@gmail.com)
 
 Thanks for visiting! 😊
