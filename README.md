@@ -1,7 +1,7 @@
 # Hi, I'm Srishti Shukla!
 
 ## 🚀 About Me
-- 🌱 Learner | **AI Automation Intern** @ SearchLiteInc.
+- 🌱 Learner | **AI Intern** @ SearchLiteInc.
 - 🎯 My goal is to create impactful, user-friendly tech solutions, be an impactful programmer.
 
 ## 🔨 Tools & Technologies
